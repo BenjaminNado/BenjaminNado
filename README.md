@@ -25,7 +25,7 @@
 
   <section id="about">
     <h2>About Us</h2>
-    <p>Wings Up Poultry Farm is a family-owned farm dedicated to producing healthy, farm-raised chickens and eggs. Located in [Your Location], we believe in quality, hygiene, and customer satisfaction.</p>
+    <p>Wings Up Poultry Farm is a family-owned farm dedicated to producing healthy, farm-raised chickens and eggs. Located in Entebbe, we believe in quality, hygiene, and customer satisfaction.</p>
   </section>
 
   <section id="products">
